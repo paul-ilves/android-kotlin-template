@@ -12,17 +12,6 @@
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_marginTop="17dp"
-            android:text="@string/cashAmount"/>
-
-
-    <EditText
-            android:id="@+id/cashAmountFrom"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:inputType="numberDecimal"
-            android:hint="@string/from"
-            android:ems="10"
-            android:layout_marginBottom="10dp"/>
-
+            android:text="Hello world!"/>
 
 </RelativeLayout>
